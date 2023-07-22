@@ -1,0 +1,10 @@
+D:\solutions visual studio\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+D:\solutions visual studio\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+D:\solutions visual studio\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+D:\solutions visual studio\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.AssemblyReference.cache
+D:\solutions visual studio\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Form1.resources
+D:\solutions visual studio\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Properties.Resources.resources
+D:\solutions visual studio\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.GenerateResource.cache
+D:\solutions visual studio\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.CoreCompileInputs.cache
+D:\solutions visual studio\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+D:\solutions visual studio\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
